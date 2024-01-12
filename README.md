@@ -14,7 +14,7 @@
 
 - 💻 All my projects are available [here.](https://github.com/Yidnekachew-cmd?tab=repositories)
 
-- ✨ Interests: coding, reading books, playing video games.
+- ✨ Interests: coding, reading books, playing piano.
 
 - ⚡ Fact about me: **I have a Bachelor's degree in Mechanical Engineering.**
 
