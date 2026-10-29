@@ -1,39 +1,39 @@
-![Banner](https://github.com/Yidnekachew-cmd/Yidnekachew-cmd/assets/104775335/dc9b5c80-e098-4fab-b361-cb334ee1c766)
+![I break things so your users don't. Yidnekachew Kassahun, QA Team Lead](./assets/banner.png)
 
-<h2>Hey There! 👋</h2>
+## Hi, I'm Yidne
 
-[![Profile Visitor](https://komarev.com/ghpvc/?username=Yidnekachew-cmd&color=brightgreen)](https://github.com/Yidnekachew-cmd)
-## I'm Yidnekachew Kassahun 😉
+QA Team Lead at **EagleLion System Technology** in Addis Ababa. I lead a 17-person QA team testing a pre-launch mobile super app for one of Ethiopia's largest banks, with a regression cycle of 10,000+ test cases across mobile, backend, e-commerce and USSD suites.
 
- <p align="center">    
-    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Software+Developer;Open+to+new+opportunities+...&center=true"></a>
-</p>
+**Portfolio:** [yidne-portfolio.onrender.com](https://yidne-portfolio.onrender.com/)
 
+### What I do
 
-- 👨🏻‍💻 I am currently working as a Software Engineer at a Startup based in Ethiopia
+- Test strategy, planning and release readiness for banking and fintech products
+- Web test automation with Playwright and TypeScript, using the Page Object Model
+- API testing with Postman, and mobile testing on Android and iOS
+- Mentoring QA engineers and reporting on coverage, defects and readiness
 
-- 💻 All my projects are available [here.](https://github.com/Yidnekachew-cmd?tab=repositories)
+### Recent work
 
-- ✨ Interests: coding, reading books, playing piano.
+| Project | What it is |
+| --- | --- |
+| **QA Dashboard** | An internal tool I built with Claude Code: test progress from the team's Google Sheets, failed cases, a bug tracker, QA KPIs and PDF/Word reports. Next.js, TypeScript, Cucumber. *Private.* |
+| **Banking web automation** | Playwright and TypeScript suites for three banking back-office portals, including maker-checker approval flows, with GitHub Actions workflows. *Private client repositories.* |
+| [**Portfolio**](https://github.com/Yidnekachew-cmd/Yidne-Kassahun) | My portfolio with its own admin panel. React, Vite, Tailwind CSS, Supabase. |
 
-- ⚡ Fact about me: **I have a Bachelor's degree in Mechanical Engineering.**
+### Currently learning
 
-- 🧔🏻 Pronouns: He/Him.
-        
+- Claude Code for test automation
+- Rest Assured for API automation
 
+### Toolbox
 
-<h2>🚀 Stats</h2>
+Playwright · TypeScript · JavaScript · Postman · Cucumber · Jest · GitHub Actions · Jira · Azure DevOps · TestLink
 
-<div>
-  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yidnekachew-cmd&show_icons=true&theme=nightowl&count_private=true"/>
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yidnekachew-cmd&show_icons=true&theme=nightowl&layout=compact&count_prrivate=true"/>
-</div>
+### Before QA
 
+I trained as a mechanical engineer, then as a full-stack developer at Microverse, and worked as a frontend developer. Some projects from that time: [Population Index](https://github.com/Yidnekachew-cmd/Popuation-Index), [Hoo Bank](https://github.com/Yidnekachew-cmd/HooBank), [GPT-3 UI](https://github.com/Yidnekachew-cmd/GPT-3).
 
-<h2>📫 How to reach me:</h2>
+### Contact
 
-<a href="mailto:yamiyekn@gmail.com">![yamiyekn@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/yidnekachew-kassahun/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-<h2>Support 💗</h2>
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/yidne)
+[Email](mailto:Yidnekachew.kassahun.qa@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yidnekachew-kassahun/) · [Portfolio](https://yidne-portfolio.onrender.com/)
