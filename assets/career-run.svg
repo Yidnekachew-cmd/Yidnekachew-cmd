@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="400" viewBox="0 0 900 400" role="img" aria-label="Career summary shown as a Playwright test run: 5 passed, 2 in progress">
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace; font-size: 16px; }
+    .txt { fill: #dfe6e8; }
+    .mute { fill: #869199; }
+    .pass { fill: #4ade80; }
+    .sky { fill: #3ba3e8; }
+    .line { opacity: 0; animation: show 0.35s ease-out forwards; }
+    @keyframes show { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .scan { animation: scan 6s cubic-bezier(.5,0,.5,1) infinite; }
+    @keyframes scan { from { transform: translateY(0); } to { transform: translateY(330px); } }
+    @media (prefers-reduced-motion: reduce) { .line { animation: none; opacity: 1; } .scan, .cursor { animation: none; } }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071114"/><stop offset="1" stop-color="#0d2a31"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3ba3e8" stop-opacity="0"/><stop offset="0.5" stop-color="#3ba3e8" stop-opacity="0.12"/><stop offset="1" stop-color="#3ba3e8" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="win"><rect x="1" y="1" width="898" height="398" rx="16"/></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="398" rx="16" fill="url(#bg)" stroke="#ffffff" stroke-opacity="0.1"/>
+  <g clip-path="url(#win)">
+    <rect x="1" y="1" width="898" height="44" fill="#ffffff" fill-opacity="0.03"/>
+    <line x1="1" y1="45" x2="899" y2="45" stroke="#ffffff" stroke-opacity="0.08"/>
+    <circle cx="28" cy="23" r="7" fill="#ff5f57"/><circle cx="50" cy="23" r="7" fill="#febc2e"/><circle cx="72" cy="23" r="7" fill="#28c840"/>
+    <text x="100" y="28" class="mono mute" font-size="14">~/yidne/qa — career.spec.ts</text>
+    <rect class="scan" x="1" y="46" width="898" height="60" fill="url(#beam)"/>
+  </g>
+
+  <g class="mono">
+    <text x="28" y="84" class="line" style="animation-delay:.3s"><tspan class="sky">❯</tspan><tspan class="txt"> npx playwright test career.spec.ts</tspan></text>
+    <text x="28" y="114" class="line mute" style="animation-delay:.9s">Running 7 tests using 1 worker</text>
+
+    <text x="28" y="150" class="line" style="animation-delay:1.4s"><tspan class="pass">✓</tspan><tspan class="txt">  QA Team Lead › EagleLion System Technology</tspan><tspan class="mute">  (Jun 2025 → now)</tspan></text>
+    <text x="28" y="180" class="line" style="animation-delay:1.8s"><tspan class="pass">✓</tspan><tspan class="txt">  Leads a 17-person QA team for a bank super app</tspan><tspan class="mute">  (pre-launch)</tspan></text>
+    <text x="28" y="210" class="line" style="animation-delay:2.2s"><tspan class="pass">✓</tspan><tspan class="txt">  10,000+ test cases in one regression cycle</tspan><tspan class="mute">  (97% pass rate)</tspan></text>
+    <text x="28" y="240" class="line" style="animation-delay:2.6s"><tspan class="pass">✓</tspan><tspan class="txt">  Built the team's QA dashboard with Claude Code</tspan><tspan class="mute">  (in use)</tspan></text>
+    <text x="28" y="270" class="line" style="animation-delay:3.0s"><tspan class="pass">✓</tspan><tspan class="txt">  Playwright + TypeScript suites for 3 banking portals</tspan></text>
+    <text x="28" y="300" class="line" style="animation-delay:3.4s"><tspan class="sky">◌  Rest Assured for API automation</tspan><tspan class="mute">  (learning)</tspan></text>
+    <text x="28" y="330" class="line" style="animation-delay:3.8s"><tspan class="sky">◌  Claude Code for test automation</tspan><tspan class="mute">  (learning)</tspan></text>
+
+    <g class="line" style="animation-delay:4.4s">
+      <rect x="26" y="348" width="86" height="26" rx="5" fill="#4ade80" fill-opacity="0.15"/>
+      <text x="38" y="366" class="pass" font-weight="700">5 passed</text>
+      <text x="126" y="366" class="mute">2 in progress · 0 flaky</text>
+      <rect class="cursor" x="352" y="352" width="9" height="18" fill="#3ba3e8"/>
+    </g>
+  </g>
+</svg>
