@@ -1,4 +1,4 @@
-<a href="https://yidne-portfolio.onrender.com/"><img src="./assets/banner.png" alt="I break things so your users don't. Yidnekachew Kassahun, QA Team Lead" width="100%"></a>
+<a href="https://yidne-portfolio.onrender.com/"><img src="./assets/banner.gif" alt="I break things so your users don't. Yidnekachew Kassahun, QA Team Lead" width="100%"></a>
 
 ## Hi, I'm Yidne
 
