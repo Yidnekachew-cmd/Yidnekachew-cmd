@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="400" viewBox="0 0 900 400" role="img" aria-label="Career summary shown as a Playwright test run: 5 passed, 2 in progress">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="400" viewBox="0 0 900 400" role="img" aria-label="Career summary shown as a Playwright test run: 6 passed, 1 in progress">
   <style>
     .mono { font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace; font-size: 16px; }
     .txt { fill: #dfe6e8; }
@@ -41,13 +41,13 @@
     <text x="28" y="210" class="line" style="animation-delay:2.2s"><tspan class="pass">✓</tspan><tspan class="txt">  10,000+ test cases in one regression cycle</tspan><tspan class="mute">  (97% pass rate)</tspan></text>
     <text x="28" y="240" class="line" style="animation-delay:2.6s"><tspan class="pass">✓</tspan><tspan class="txt">  Built the team's QA dashboard with Claude Code</tspan><tspan class="mute">  (in use)</tspan></text>
     <text x="28" y="270" class="line" style="animation-delay:3.0s"><tspan class="pass">✓</tspan><tspan class="txt">  Playwright + TypeScript suites for 3 banking portals</tspan></text>
-    <text x="28" y="300" class="line" style="animation-delay:3.4s"><tspan class="sky">◌  Rest Assured for API automation</tspan><tspan class="mute">  (learning)</tspan></text>
-    <text x="28" y="330" class="line" style="animation-delay:3.8s"><tspan class="sky">◌  Claude Code for test automation</tspan><tspan class="mute">  (learning)</tspan></text>
+    <text x="28" y="300" class="line" style="animation-delay:3.4s"><tspan class="pass">✓</tspan><tspan class="txt">  AI-assisted test automation with Claude Code</tspan></text>
+    <text x="28" y="330" class="line" style="animation-delay:3.8s"><tspan class="sky">◌  Rest Assured for API automation</tspan><tspan class="mute">  (learning)</tspan></text>
 
     <g class="line" style="animation-delay:4.4s">
       <rect x="26" y="348" width="86" height="26" rx="5" fill="#4ade80" fill-opacity="0.15"/>
-      <text x="38" y="366" class="pass" font-weight="700">5 passed</text>
-      <text x="126" y="366" class="mute">2 in progress · 0 flaky</text>
+      <text x="38" y="366" class="pass" font-weight="700">6 passed</text>
+      <text x="126" y="366" class="mute">1 in progress · 0 flaky</text>
       <rect class="cursor" x="352" y="352" width="9" height="18" fill="#3ba3e8"/>
     </g>
   </g>
