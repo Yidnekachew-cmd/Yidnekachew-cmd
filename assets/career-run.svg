@@ -37,8 +37,8 @@
     <text x="28" y="114" class="line mute" style="animation-delay:.9s">Running 7 tests using 1 worker</text>
 
     <text x="28" y="150" class="line" style="animation-delay:1.4s"><tspan class="pass">✓</tspan><tspan class="txt">  QA Team Lead › EagleLion System Technology</tspan><tspan class="mute">  (Jun 2025 → now)</tspan></text>
-    <text x="28" y="180" class="line" style="animation-delay:1.8s"><tspan class="pass">✓</tspan><tspan class="txt">  Leads a 17-person QA team for a bank super app</tspan><tspan class="mute">  (pre-launch)</tspan></text>
-    <text x="28" y="210" class="line" style="animation-delay:2.2s"><tspan class="pass">✓</tspan><tspan class="txt">  10,000+ test cases in one regression cycle</tspan><tspan class="mute">  (97% pass rate)</tspan></text>
+    <text x="28" y="180" class="line" style="animation-delay:1.8s"><tspan class="pass">✓</tspan><tspan class="txt">  Leads a 17-person QA team for banking products</tspan></text>
+    <text x="28" y="210" class="line" style="animation-delay:2.2s"><tspan class="pass">✓</tspan><tspan class="txt">  Large-scale regression across mobile, web and backend</tspan></text>
     <text x="28" y="240" class="line" style="animation-delay:2.6s"><tspan class="pass">✓</tspan><tspan class="txt">  Built the team's QA dashboard with Claude Code</tspan><tspan class="mute">  (in use)</tspan></text>
     <text x="28" y="270" class="line" style="animation-delay:3.0s"><tspan class="pass">✓</tspan><tspan class="txt">  Playwright + TypeScript suites for 3 banking portals</tspan></text>
     <text x="28" y="300" class="line" style="animation-delay:3.4s"><tspan class="pass">✓</tspan><tspan class="txt">  AI-assisted test automation with Claude Code</tspan></text>
