@@ -2,7 +2,7 @@
 
 ## Hi, I'm Yidne
 
-AI-Powered QA Automation Engineer and QA Team Lead at **EagleLion System Technology** in Addis Ababa. I lead a 17-person QA team working on banking and fintech products, and I use Playwright and Claude Code to build the tools and automation that keep releases calm.
+AI-Powered QA Automation Engineer and QA Team Lead at **EagleLion System Technology** in Addis Ababa. I lead a 17-person QA team working on banking and fintech products, and I use Playwright, Rest Assured and Claude Code to build the UI and API automation and tools that keep releases calm.
 
 <a href="https://yidne-portfolio.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-yidne--portfolio-1f8fa6?style=for-the-badge&labelColor=0d2a31" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/yidnekachew-kassahun/"><img src="https://img.shields.io/badge/LinkedIn-Connect-3ba3e8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d2a31" alt="LinkedIn"></a>
@@ -10,7 +10,7 @@ AI-Powered QA Automation Engineer and QA Team Lead at **EagleLion System Technol
 
 ### My career, as a test run
 
-<img src="./assets/career-run.svg" alt="npx playwright test career.spec.ts: QA Team Lead at EagleLion System Technology; leads a 17-person QA team for banking products; large-scale regression testing across mobile, web and backend; built the team's QA dashboard with Claude Code; Playwright and TypeScript suites for 3 banking portals; AI-assisted test automation with Claude Code. Learning: Rest Assured for API automation." width="100%">
+<img src="./assets/career-run.svg" alt="npx playwright test career.spec.ts: QA Team Lead at EagleLion System Technology; leads a 17-person QA team for banking products; large-scale regression testing across mobile, web and backend; built the team's QA dashboard with Claude Code; Playwright and TypeScript suites for 3 banking portals; AI-assisted test automation with Claude Code; Rest Assured API automation built with Claude Code." width="100%">
 
 ### Recent work
 
@@ -34,7 +34,7 @@ AI-Powered QA Automation Engineer and QA Team Lead at **EagleLion System Technol
 ![Jira](https://img.shields.io/badge/Jira-0d2a31?style=flat-square&logo=jira&logoColor=0a85ff)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0d2a31?style=flat-square&logo=azuredevops&logoColor=0078d7)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-AI--powered%20testing-1f8fa6?style=flat-square&labelColor=0d2a31)
-![Rest Assured](https://img.shields.io/badge/Rest%20Assured-learning-1f8fa6?style=flat-square&labelColor=0d2a31)
+![Rest Assured](https://img.shields.io/badge/Rest%20Assured-API%20automation-1f8fa6?style=flat-square&labelColor=0d2a31)
 
 ### Before QA
 
